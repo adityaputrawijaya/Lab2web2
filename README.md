@@ -35,7 +35,7 @@ dan CSS.</p>
 ```
 - Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
-gmbr
+![image](https://github.com/adityaputrawijaya/Lab2web2/assets/115687055/4fc19a1c-2500-4b80-ad38-aa761935fa05)
 
 
 ### 2. Mendeklarasikan CSS Internal
@@ -67,7 +67,7 @@ gmbr
 Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat
 hasilnya.
 
-gmbr2
+![image](https://github.com/adityaputrawijaya/Lab2web2/assets/115687055/c46f1019-2bc7-4cfe-89f3-167ae479a280)
 
 
 ### 3. Menambahkan Inline CSS
@@ -77,7 +77,7 @@ gmbr2
 ```
 - Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
-gmbr3
+![image](https://github.com/adityaputrawijaya/Lab2web2/assets/115687055/46c9786e-7fb4-45a1-b1e7-d73514df2e5b)
 
 
 ### 4. Membuat CSS Eksternal
@@ -112,7 +112,8 @@ nav a:hover {
 
 - Selanjutnya refresh kembali browser untuk melihat perubahannya.
 
-gmbr4
+![image](https://github.com/adityaputrawijaya/Lab2web2/assets/115687055/0d368a4a-4e74-4830-9969-5699aef4f405)
+
 
 ### 5. Menambahkan CSS Selector
 - Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
@@ -146,7 +147,7 @@ style_eksternal.css, tambahkan kode berikut.
 
 - Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 
-gmbr5
+![image](https://github.com/adityaputrawijaya/Lab2web2/assets/115687055/9cedb3c5-98e0-4266-a1cf-ba9ad4764761)
 
 
 ### Modul Praktikum Pemrograman Web
