@@ -34,7 +34,8 @@ dan CSS.</p>
 </html>
 ```
 - Selanjutnya buka pada brwoser untuk melihat hasilnya.
-  gmbr
+
+gmbr
 
 
 ### 2. Mendeklarasikan CSS Internal
